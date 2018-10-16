@@ -1,8 +1,8 @@
 # ha-dawon-switch
 
 
-[링크](http://example.com "다원DNS") 인라인 링크
- 홈어시스턴트 연동 프로그램입니다.
+[다원DNS](http://www.powermanager.co.kr/views/product-b7.php "다원DNS")
+[홈어시스턴트](https://www.home-assistant.io/) 연동 프로그램입니다.
 
 
 
