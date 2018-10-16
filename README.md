@@ -1,18 +1,14 @@
 # ha-dawon-switch
 
-# ì„¤ëª…
-[ë‹¤ì›DNS](http://www.powermanager.co.kr/views/product-b7.php "ë‹¤ì›DNS")
-[í™ˆì–´ì‹œìŠ¤í„´íŠ¸](https://www.home-assistant.io/) ì—°ë™ í”„ë¡œê·¸ë¨ì…ë‹ˆë‹¤.
+# ¼³¸í
+[´Ù¿øDNS](http://www.powermanager.co.kr/views/product-b7.php "´Ù¿øDNS")
+[È¨¾î½Ã½ºÅÏÆ®](https://www.home-assistant.io/) ¿¬µ¿ ÇÁ·Î±×·¥ÀÔ´Ï´Ù.
 ![alt text](C:\Users\x280\Downloads\20180912_012603.png)
 
-#êµ¬ë™ í™˜ê²½
- - Home Assistantê°€ ì„¤ì¹˜ë˜ì–´ìˆëŠ” ë¼ì¦ˆë² ë¦¬, ì‹œë†€ë¡œì§€ ë„ì»¤í™˜ê²½ ë“±
+#±¸µ¿ È¯°æ
+ - Home Assistant°¡ ¼³Ä¡µÇ¾îÀÖ´Â ¶óÁîº£¸®, ½Ã³î·ÎÁö µµÄ¿È¯°æ µî
  - Home Assistant (ver 0.80)
 
-#ì„¤ì • ë°©ë²•
+#¼³Á¤ ¹æ¹ı
  - 
-
-
-
-
 
